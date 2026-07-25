@@ -1,0 +1,10 @@
+type: UnitCargoLoader
+unitType: carrier-drone
+unitBuildTime: 0
+polyStroke: 1.2
+polyRadius: 0.75
+polyColor: 38a6c9ff
+requirements: [
+  crystalite/75
+  silver/75
+]
