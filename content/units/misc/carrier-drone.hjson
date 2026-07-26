@@ -10,3 +10,4 @@ killable: false
 pickupUnits: true
 controlSelectGlobal: false
 allowChangeCommands: true
+playerControllable: true
