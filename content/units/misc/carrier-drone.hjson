@@ -1,0 +1,12 @@
+type: tether
+flying: true
+defaultCommand: loopPayloadCommand
+payloadCapacity: 0.11
+drag: 1
+speed: 6
+targetable: false
+hittable: false
+killable: false
+pickupUnits: true
+controlSelectGlobal: false
+allowChangeCommands: true
