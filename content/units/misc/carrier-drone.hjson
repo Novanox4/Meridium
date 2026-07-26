@@ -12,6 +12,5 @@ controlSelectGlobal: false
 allowChangeCommands: true
 playerControllable: true
 physics: false
-physicsLayer: 116
 flyingLayer: 116
 engineLayer: 115.9
