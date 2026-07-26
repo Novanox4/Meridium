@@ -1,7 +1,7 @@
 type: tether
 flying: true
 defaultCommand: loopPayload
-payloadCapacity: 128
+payloadCapacity: 32
 speed: 6
 targetable: false
 hittable: false
