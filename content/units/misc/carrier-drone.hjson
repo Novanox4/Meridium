@@ -1,7 +1,7 @@
 type: tether
 flying: true
 defaultCommand: loopPayload
-payloadCapacity: 8
+payloadCapacity: 16
 drag: 1
 speed: 6
 targetable: false
@@ -14,3 +14,4 @@ playerControllable: true
 physics: false
 flyingLayer: 116
 engineLayer: 115.9
+outlineColor: 323232
