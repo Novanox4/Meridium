@@ -1,0 +1,64 @@
+type: flying
+description: internal
+health: 1
+hittable: false
+targetable: false
+killable: false
+groundLayer: -11
+flyingLayer: -11
+physics: false
+hitSize: 0
+speed: 0
+engineSize: 0
+flying: true
+rotateSpeed: 0
+isEnemy: false
+faceTarget: false
+playerControllable: false
+controlSelectGlobal: false
+createWreck: false
+createScorch: false
+drawCell: false
+drawShields: false
+drawBody: false
+drawSoftShadow: false
+drawMinimap: false
+deathSound: none
+wreckSound: none
+moveSound: none
+deathExplosionEffect: none
+fallEffect: none
+fallEngineEffect: none
+allowChangeCommands: false
+outlines: false
+bounded: false
+weapons: [
+  {
+  alwaysShooting: true
+  shootSound: none
+  mirror: false
+  x: 0
+  shootY: 0
+  xRand: 8000
+  bullet: {
+    type: EmptyBulletType
+    lifetime: 0
+    shootEffect: none
+    smokeEffect: none
+    despawnEffect: none
+    hitEffect: [
+      {
+      type: ParticleEffect
+      cone: 0
+      region: "particle"
+      sizeFrom: 75
+      layer: -1
+      colorFrom: c4c4c4
+      colorTo: c4c4c4
+      lifetime: 3600
+      baseLength: 8000
+      length: 3000
+      }
+    }
+  }
+]
