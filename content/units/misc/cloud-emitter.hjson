@@ -11,9 +11,8 @@ hitSize: 0
 speed: 0
 engineSize: 0
 flying: true
-rotateSpeed: 0
+rotateSpeed: 999
 isEnemy: false
-faceTarget: false
 playerControllable: false
 controlSelectGlobal: false
 createWreck: false
@@ -32,6 +31,7 @@ fallEngineEffect: none
 allowChangeCommands: false
 outlines: false
 bounded: false
+shadowElevationScl: 0
 weapons: [
   {
   alwaysShooting: true
@@ -55,13 +55,14 @@ weapons: [
       type: ParticleEffect
       cone: 0
       region: "particle"
-      sizeFrom: 75
+      sizeFrom: 300
       layer: -1
       colorFrom: c4c4c4
       colorTo: c4c4c4
       lifetime: 3600
       baseLength: 8000
       length: 3000
+      clipSize: 1000
       }
     ]
     }
