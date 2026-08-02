@@ -40,12 +40,16 @@ weapons: [
   x: 0
   shootY: 0
   xRand: 8000
+  reload: 0.1
   bullet: {
-    type: EmptyBulletType
+    type: BulletType
     lifetime: 0
     shootEffect: none
     smokeEffect: none
     despawnEffect: none
+    collides: false
+    damage: 0
+    despawnHit: true
     hitEffect: [
       {
       type: ParticleEffect
