@@ -56,12 +56,13 @@ weapons: [
       cone: 0
       region: "particle"
       sizeFrom: 300
-      layer: -1
+      sizeTo: 300
+      layer: 1
       colorFrom: c4c4c4
       colorTo: c4c4c4
       lifetime: 3600
       baseLength: 8000
-      length: 3000
+      length: 2500
       clipSize: 1000
       }
     ]
