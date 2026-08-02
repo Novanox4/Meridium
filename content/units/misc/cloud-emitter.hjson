@@ -42,6 +42,7 @@ weapons: [
   xRand: 8000
   reload: 0.1
   bullet: {
+    speed: 1
     type: BulletType
     lifetime: 0
     shootEffect: none
@@ -60,7 +61,7 @@ weapons: [
       layer: 1
       colorFrom: c4c4c4
       colorTo: c4c4c4
-      lifetime: 3600
+      lifetime: 1800
       baseLength: 8000
       length: 2500
       clipSize: 1000
