@@ -59,6 +59,7 @@ weapons: [
       baseLength: 8000
       length: 3000
       }
+    ]
     }
   }
 ]
