@@ -1,0 +1,4 @@
+type: StaticWall
+name: Well, there is a man here
+variants: 0
+hasShadow: false
