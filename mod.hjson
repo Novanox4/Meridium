@@ -1,156 +1,20 @@
-name: "astralis"
-displayName: Astralis
+name: "meridium"
+displayName: Meridium
 description: "
 Currently sandbox only!
-
-A reboot of an old mod.
-
-Explore a rocky, dark world filled with many things that shouldn't exist.
-
-Brave inferno. Escape the cage.
+Formerly Astralis
 
 CREDITS:
 
 NV-NX - Main dev and spriter
-Haznobrain - Occasional sprite and code help. Making music.
+Haznobrain - Occasional sprite and code help. Making title music.
 Megacheb - Allowing me to use some of their music for (upcoming) bosses."
 subtitle: "Re-Remake"
 author: "NV-NX (FULL CREDITS IN DESC.)"
 version: 0.1
-repo: "Novanox4/Astralis"
+repo: "Novanox4/Meridium"
 minGameVersion: 158.1
 
 contentOrder: [
-
-  //attributes
-
-  attribute-turbine
-  attribute-growth
-
-  //units
-
-  //core
-
-  builder
-
-  //t1
-
-  izalco
-  benxi
-
-  //t2
-
-  antilla
-  madine
-
-  //t3
-
-  etna
-
-  //pale
-
-  bleeder
-
-  //unit blocks
-
-  //power
-
-  energy-distributor
-  water-turbine
-  uranium-decay-generator
-  biofuel-reactor
-  capacitor
-  energy-restrictor
-
-  //sectors
-
-  //crafting
-
-  //heat
-
-  heat-circulator
-
-  //items
-
-  funnel
-  funnel-tunnel
-  funnel-distribution-module
-  funnel-distribution-module-alternate
-  funnel-overflow-module
-  funnel-underflow-module
-  funnel-overpass
-  precision-overpass
-
-  //liquids
-
-  siphon
-  silver-channel
-  channel-junction
-  channel-router
-  channel-overpass
-  
-  //resources
-
-  crystalite
-  uranium
-  biomatter
-  biofuel
-  char-chunks
-  silver
-  nitric-acid
-  fulminate
-  cerium
-  neodymium
-  void-fluid
-  hadalrock
-  technoweave
-  picocarapace
-  abyssal-alloy
-  solacite
-  auric-plating
-  khora
-
-  //core
-
-  core-fort
-
-  //effect
-
-  spotlight
-  rejuvenator
-
-  //production
-
-  pulse-bore
-
-  //defense
-
-  crystalite-wall
-  crystalite-wall-large
-  metaglass-wall
-  metaglass-wall-large
-
-  //turrets
-  
-  //env
-  //(this is for editor ordering)
-
-  ashen-rock
-  ashen-rock-wavy
-  ashen-rock-wall
-
-  nightstone-floor
-  nightstone-crater
-  nightstone-wall
-
-  deep-astral-water
-  astral-water
-
-  environment-void-fluid
-
-  astralis-core-zone
-  
-  crystalite-outcrop
-  uranium-outcrop
-  silver-outcrop
+//none yet
 ]
