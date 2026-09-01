@@ -34,6 +34,7 @@ mesh: [
   color: d4a68c
   radius: 0.49
   divisions: 4
+  }
 ]
 cloudMesh: [
 ]
