@@ -20,18 +20,12 @@ mesh: [
   pow: 1
   colorScale: 1.1
   colors: [
-    e3feff
-    cbf1f5
-    b9e5ed
-    a0cdde
-    81b4cc
-    69a8b8
-    4f8fa8
-    3f7ba1
-    "294e87" //this one is coincidentally formatted like a number so it needs quotes to not become a different color. I found this out the hard fucking way.
-    193175
-    0f1b6b
-    060957
+    ffc2f8
+    f1a2f2
+    db86e3
+    bc6acc
+    9f55ad
+    924099
     ]
   }
 ]
