@@ -1,41 +1,17 @@
 localizedName: Singularity
 radius: 4
-minZoom: 1
-maxZoom: 100
+camRadius: 5
 drawOrbit: true
-clipSize: 8500
+clipSize: 10000
 accessible: true
 updateLighting: false
 orbitSpacing: 5
 bloom: true
 visible: true
-parent: singularity
 sectorSeed: 1
 solarSystem: singularity
 alwaysUnlocked: true
-mesh: [
-  {
-  type: SunMesh
-  planet: singularity
-  divisions: 4
-  octaves: 4
-  persistence: 0.5
-  scl: 1.9
-  pow: 1
-  colorScale: 1
-  colors: [
-    e3feff
-    cbf1f5
-    b9e5ed
-    a0cdde
-    81b4cc
-    69a8b8
-    4f8fa8
-    3f7ba1
-    "294e87" //this one is coincidentally formatted like a number so it needs quotes to not become a different color
-    193175
-    0f1b6b
-    060957
-    ]
-  }
-]
+mesh: {
+  type: HexSkyMesh
+  color: 000000
+}
