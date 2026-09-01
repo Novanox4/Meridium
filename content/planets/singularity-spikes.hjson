@@ -1,5 +1,5 @@
 //BIG TIME TEST
-radius: 4
+radius: 7
 minZoom: 1
 drawOrbit: false
 clipSize: 8500
@@ -17,8 +17,9 @@ mesh: [
   {
   type: NoiseMesh
   color: e3feffff
-  radius: 8
+  radius: 6
   persistence: 1
   octaves: 1
+  scale: 1
   }
 ]
