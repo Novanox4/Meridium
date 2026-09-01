@@ -9,6 +9,7 @@ bloom: true
 visible: true
 sectorSeed: 1
 solarSystem: meridium
+alwaysUnlocked: true
 mesh: [
   {
   type: SunMesh
@@ -26,6 +27,9 @@ mesh: [
     bc6acc
     9f55ad
     924099
+    7e3085
+    671d6e
+    4b0b57
     ]
   }
 ]
