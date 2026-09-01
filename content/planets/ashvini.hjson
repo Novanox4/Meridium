@@ -3,6 +3,7 @@ description: Small desert planet used by Hell Inc to export oil and sand.
 parent: singularity
 defaultCore: core-shard
 orbitRadius: 75
+orbitSpacing: 5
 drawOrbit: true
 radius: 0.6
 atmosphereColor: d4a68cbf
