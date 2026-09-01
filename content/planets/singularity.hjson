@@ -31,7 +31,7 @@ mesh: [
     69a8b8
     4f8fa8
     3f7ba1
-    "294e87" //this one is coincidentally formatted like a number so it needs quotes to not become a different color
+    "294e87" //this one is coincidentally formatted like a number so it needs quotes to not become a different color. I found this out the hard fucking way.
     193175
     0f1b6b
     060957
