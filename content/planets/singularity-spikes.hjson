@@ -12,6 +12,7 @@ solarSystem: singularity
 sectorSeed: 1
 alwaysUnlocked: true
 orbitRadius: 10
+orbitSpacing: 30
 mesh: [
   {
   type: NoiseMesh
