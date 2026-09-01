@@ -2,6 +2,8 @@ localizedName: Singularity
 radius: 8
 drawOrbit: false
 clipSize: 10000
+minZoom: 3
+maxZoom: 5
 accessible: true
 updateLighting: false
 orbitSpacing: 5
