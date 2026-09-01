@@ -1,12 +1,10 @@
 localizedName: "Meridium - Singularity"
-accessible: false
 radius: 4
 minZoom: 1
 drawOrbit: true
 clipSize: 8500
 accessible: true
 updateLighting: false
-sectorSeed: 
 bloom: true
 visible: true
 parent: singularity
