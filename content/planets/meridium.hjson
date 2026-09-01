@@ -1,7 +1,6 @@
 localizedName: Meridium
 radius: 1
 drawOrbit: true
-clipSize: 10000
 accessible: false
 updateLighting: false
 orbitSpacing: 0
