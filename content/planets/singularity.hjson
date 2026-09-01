@@ -9,7 +9,7 @@ updateLighting: false
 sectorSeed: 
 bloom: true
 visible: true
-parent: none
+parent: null
 sectorSeed: 1
 solarSystem: singularity
 mesh: [
