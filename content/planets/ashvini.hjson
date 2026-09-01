@@ -11,7 +11,7 @@ orbitRadius: 100
 bloom: true
 visible: true
 sectorSeed: 1
-parent: meridium
+parent: singularity
 alwaysUnlocked: true
 mesh: [
   {
