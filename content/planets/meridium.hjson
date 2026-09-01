@@ -16,8 +16,8 @@ mesh: [
   planet: singularity
   divisions: 6
   octaves: 3
-  persistence: 3
-  scl: 1
+  persistence: 1
+  scl: 2.5
   pow: 1
   colorScale: 1.4
   colors: [
