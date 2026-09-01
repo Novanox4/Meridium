@@ -1,6 +1,6 @@
 localizedName: Ashvini
 description: Small desert planet used by Hell Inc to export oil and sand.
-parent: singularity
+parent: meridium
 defaultCore: core-shard
 orbitRadius: 75
 radius: 0.6
@@ -33,12 +33,12 @@ mesh: [
   {
     type: NoiseMesh
     planet: ashvini
-    color: d4a68c
+    color: 000000
     radius: 0.55
     divisions: 3
+    persistence: 1
+    octaves: 1
   }
-]
-cloudMesh: [
 ]
 generator: {
   octaves: 3
