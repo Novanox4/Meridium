@@ -1,7 +1,7 @@
 localizedName: Singularity
 radius: 4
 drawOrbit: true
-minZoom: 3
+minZoom: 0.001
 maxZoom: 80
 accessible: true
 updateLighting: false
