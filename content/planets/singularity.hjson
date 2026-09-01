@@ -11,7 +11,6 @@ bloom: true
 visible: true
 sectorSeed: 1
 parent: meridium
-alwaysUnlocked: true
 mesh: [
   {
   type: SunMesh
