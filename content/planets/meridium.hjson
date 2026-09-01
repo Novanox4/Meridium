@@ -1,4 +1,4 @@
-localizedName: Singularity
+localizedName: Meridium
 radius: 4
 camRadius: 5
 drawOrbit: true
@@ -9,9 +9,9 @@ orbitSpacing: 5
 bloom: true
 visible: true
 sectorSeed: 1
-solarSystem: singularity
+solarSystem: meridium
 alwaysUnlocked: true
 mesh: {
   type: HexSkyMesh
-  color: 000000
+  color: ffffff00
 }
