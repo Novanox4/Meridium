@@ -1,5 +1,5 @@
 localizedName: Ashvini
-description: A deserted planet used by Hell Inc to extract sand and oil.
+description: A desert planet used by Hell Inc to extract sand and oil.
 orbitRadius: 75
 orbitSpacing: 5
 sectorSize: 1.75
@@ -9,7 +9,7 @@ allowLaunchLoadout: false
 allowSectorInvasion: false
 startSector: 1
 orbitSpacing: 1
-radius: 0.75
+radius: 1
 minZoom: 1
 drawOrbit: true
 atmosphereRadIn: 0.02
