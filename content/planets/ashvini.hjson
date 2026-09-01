@@ -1,0 +1,57 @@
+localizedName: Ashvini
+description: Small desert planet used by Hell Inc to export oil and sand.
+parent: singularity
+defaultCore: core-shard
+orbitRadius: 75
+radius: 0.6
+atmosphereColor: d4a68cbf
+iconColor: d4a68c
+sectorSeed: 21
+startSector: 1
+sectorSize: 2
+minZoom: 0.6
+maxZoom: 1.5
+alwaysUnlocked: true
+allowLaunchSchematics: false
+allowLaunchToNumbered: false
+allowLaunchLoadout: false
+allowSectorInvasion: false
+atmosphereRadIn: 0.02
+atmosphereRadOut: 0.4
+accessible: true
+updateLighting: false
+bloom: true
+visible: true
+hasAtmosphere: true
+allowWaveSimulation: false
+clearSectorOnLose: true
+allowWaves: true
+prebuildBase: false
+tidalLock: true
+mesh: [
+  //layer 1: oil
+  {
+    type: NoiseMesh
+    planet: ashvini
+    color: d4a68c
+    radius: 0.55
+    divisions: 3
+  }
+]
+cloudMesh: [
+]
+generator: {
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
+  min: 100
+  max: 100
+  radMin: 220
+  radMax: 600
+  iceChance: 0.51
+  carbonChance: 0.32
+  berylChance: 0
+  ferricChance: 0.26
+}
