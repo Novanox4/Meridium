@@ -18,7 +18,7 @@ mesh: [
   octaves: 2
   persistence: 1
   scl: 1.2
-  pow: 0.9
+  pow: 1
   colorScale: 1.4
   colors: [
     ffc2f8
