@@ -15,7 +15,7 @@ mesh: [
   type: SunMesh
   planet: singularity
   divisions: 6
-  octaves: 4
+  octaves: 3
   persistence: 0.5
   scl: 1.7
   pow: 1
