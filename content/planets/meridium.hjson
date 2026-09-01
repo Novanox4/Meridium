@@ -1,4 +1,5 @@
 localizedName: Meridium
+//this exists so the star has a separate name from the solar system
 radius: 1
 drawOrbit: true
 accessible: false
