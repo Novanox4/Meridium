@@ -16,5 +16,9 @@ repo: "Novanox4/Meridium"
 minGameVersion: 158.1
 
 contentOrder: [
-//none yet
+#planets
+#should be last to load usually
+meridium //meridium is the actual center and is used as a loophole to have a different name for the star and solar system in case you didn't LOOK AT THE DAMN FILE
+singularity
+ashvini
 ]
