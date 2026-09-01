@@ -19,6 +19,6 @@ mesh: [
   color: e3feff
   radius: 8
   persistence: 1
-  octaves: 5
+  octaves: 1
   }
 ]
