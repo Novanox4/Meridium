@@ -6,7 +6,7 @@ maxZoom: 80
 accessible: true
 updateLighting: false
 orbitSpacing: 5
-orbitRadius: 20
+orbitRadius: 1
 bloom: true
 visible: true
 sectorSeed: 1
