@@ -5,13 +5,13 @@ defaultCore: core-shard
 orbitRadius: 75
 orbitSpacing: 5
 drawOrbit: true
-radius: 0.6
+radius: 0.8
 atmosphereColor: d4a68cbf
 iconColor: d4a68c
 sectorSeed: 21
 startSector: 1
 sectorSize: 2
-minZoom: 0.6
+minZoom: 0.85
 maxZoom: 2.25
 alwaysUnlocked: true
 allowLaunchSchematics: false
@@ -35,7 +35,7 @@ mesh: [
     type: NoiseMesh
     planet: ashvini
     color: 000000
-    radius: 0.55
+    radius: 0.8
     divisions: 3
     persistence: 1
     octaves: 1
