@@ -18,7 +18,7 @@ accessible: true
 updateLighting: false
 sectorSeed: 69420
 bloom: true
-visible: true
+visible: false
 atmosphereColor: 216f967e
 iconColor: 94e3f1
 hasAtmosphere: true
@@ -263,7 +263,6 @@ generator: {
   berylChance: 0
   ferricChance: 0.26
 }
-alwaysUnlocked: true
 cloudMesh: [
   //clockwise
   {
