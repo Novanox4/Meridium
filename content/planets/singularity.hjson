@@ -10,6 +10,7 @@ visible: true
 parent: singularity
 sectorSeed: 1
 solarSystem: singularity
+alwaysUnlocked: true
 mesh: [
   {
   type: SunMesh
