@@ -14,10 +14,10 @@ mesh: [
   {
   type: SunMesh
   planet: singularity
-  divisions: 5
+  divisions: 6
   octaves: 4
   persistence: 0.5
-  scl: 1.9
+  scl: 1.2
   pow: 1
   colorScale: 1.2
   colors: [
