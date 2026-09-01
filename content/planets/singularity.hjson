@@ -6,6 +6,7 @@ drawOrbit: true
 clipSize: 8500
 accessible: true
 updateLighting: false
+orbitSpacing: 5
 bloom: true
 visible: true
 parent: singularity
