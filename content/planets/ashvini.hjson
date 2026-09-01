@@ -33,11 +33,9 @@ mesh: [
   {
   type: NoiseMesh
   color: d4a68c
-  radius: 0.49
+  radius: 1
   divisions: 4
   }
-]
-cloudMesh: [
 ]
 generator: {
   octaves: 3
