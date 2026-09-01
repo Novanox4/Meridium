@@ -11,8 +11,7 @@ parent: singularity
 solarSystem: singularity
 sectorSeed: 1
 alwaysUnlocked: true
-orbitRadius: 0
-orbitSpacing: 0
+orbitRadius: 10
 mesh: [
   {
   type: NoiseMesh
