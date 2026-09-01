@@ -5,7 +5,7 @@ minZoom: 0.001
 maxZoom: 80
 accessible: true
 updateLighting: false
-orbitSpacing: 5
+orbitSpacing: 40
 orbitRadius: 1
 bloom: true
 visible: true
