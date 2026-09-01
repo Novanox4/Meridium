@@ -1,6 +1,7 @@
 localizedName: Singularity
 radius: 4
 minZoom: 1
+maxZoom: 100
 drawOrbit: true
 clipSize: 8500
 accessible: true
