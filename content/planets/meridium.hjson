@@ -1,7 +1,8 @@
 localizedName: Meridium
 radius: 1
 drawOrbit: true
-accessible: false
+accessible: true
+alwaysUnlocked: true
 updateLighting: false
 orbitSpacing: 0
 bloom: false
