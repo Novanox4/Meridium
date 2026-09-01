@@ -11,7 +11,7 @@ parent: singularity
 solarSystem: singularity
 sectorSeed: 1
 alwaysUnlocked: true
-orbitRadius: 10
+orbitRadius: 120
 orbitSpacing: 30
 mesh: [
   {
