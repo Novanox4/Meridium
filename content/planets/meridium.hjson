@@ -12,6 +12,6 @@ sectorSeed: 1
 solarSystem: meridium
 mesh: {
   type: HexSkyMesh
-  color: ffffff00
+  color: 00000003
   thresh: 0.001
 }
