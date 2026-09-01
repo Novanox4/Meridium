@@ -5,7 +5,7 @@ accessible: false
 updateLighting: false
 orbitSpacing: 0
 bloom: false
-visible: false
+visible: true
 sectorSeed: 1
 solarSystem: meridium
 mesh: {
