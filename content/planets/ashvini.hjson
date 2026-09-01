@@ -1,0 +1,55 @@
+localizedName: Ashvini
+description: A deserted planet used by Hell Inc to extract sand and oil.
+orbitRadius: 75
+sectorSize: 1.75
+allowLaunchSchematics: false
+allowLaunchToNumbered: false
+allowLaunchLoadout: false
+allowSectorInvasion: false
+startSector: 1
+orbitSpacing: 1
+radius: 0.5
+minZoom: 1
+drawOrbit: true
+atmosphereRadIn: 0.02
+atmosphereRadOut: 0.4
+accessible: true
+updateLighting: false
+sectorSeed: 21
+bloom: true
+visible: true
+atmosphereColor: d4a68cbf
+iconColor: d4a68c
+hasAtmosphere: true
+allowWaveSimulation: false
+clearSectorOnLose: true
+allowWaves: true
+prebuildBase: false
+defaultCore: core-shard
+parent: singularity
+tidalLock: true
+mesh: [
+  {
+  type: NoiseMesh
+  color: d4a68c
+  radius: 0.49
+  divisions: 4
+]
+cloudMesh: [
+]
+generator: {
+  octaves: 3
+  persistence: 0.52
+  scale: 22
+  mag: 0.721
+  thresh: 1.152
+  min: 100
+  max: 100
+  radMin: 220
+  radMax: 600
+  iceChance: 0.51
+  carbonChance: 0.32
+  berylChance: 0
+  ferricChance: 0.26
+}
+alwaysUnlocked: true
