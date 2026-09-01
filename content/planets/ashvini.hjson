@@ -6,7 +6,7 @@ maxZoom: 80
 accessible: true
 updateLighting: false
 orbitSpacing: 5
-orbitRadius: 100
+orbitRadius: 1
 bloom: true
 visible: true
 sectorSeed: 1
@@ -23,7 +23,7 @@ mesh: [
   pow: 1
   colorScale: 1.1
   colors: [
-    e3feff
+    000000
     cbf1f5
     b9e5ed
     a0cdde
