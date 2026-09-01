@@ -26,8 +26,7 @@ clearSectorOnLose: true
 allowWaves: true
 prebuildBase: false
 defaultCore: core-shard
-parent: singularity
-solarSystem: meridium
+parent: meridium
 tidalLock: true
 mesh: [
   {
