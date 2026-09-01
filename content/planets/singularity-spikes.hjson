@@ -17,7 +17,8 @@ mesh: [
   {
   type: NoiseMesh
   color: e3feff80
-  radius: 5
+  radius: 8
   persistence: 20
+  octaves: 5
   }
 ]
