@@ -2,10 +2,10 @@ localizedName: Meridium
 //this exists so the star has a separate name from the solar system
 radius: 4
 drawOrbit: true
-accessible: false
+accessible: true
 updateLighting: false
 orbitSpacing: 0
-bloom: false
+bloom: true
 visible: true
 sectorSeed: 1
 solarSystem: meridium
