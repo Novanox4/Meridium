@@ -11,7 +11,7 @@ startSector: 1
 orbitSpacing: 1
 radius: 1
 minZoom: 1
-maxZoom: 100
+maxZoom: 10
 drawOrbit: true
 atmosphereRadIn: 0.02
 atmosphereRadOut: 0.4
@@ -28,7 +28,7 @@ clearSectorOnLose: true
 allowWaves: true
 prebuildBase: false
 defaultCore: core-shard
-parent: singularity
+parent: meridium
 tidalLock: true
 mesh: [
   {
@@ -36,6 +36,7 @@ mesh: [
   color: d4a68c
   radius: 1
   divisions: 4
+  persistence: 1
   }
 ]
 generator: {
