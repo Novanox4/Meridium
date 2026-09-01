@@ -19,7 +19,7 @@ mesh: [
   persistence: 1
   scl: 1.2
   pow: 1
-  mag: 5
+  mag: 2
   colorScale: 1.4
   colors: [
     ffc2f8
