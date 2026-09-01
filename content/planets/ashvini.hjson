@@ -29,7 +29,7 @@ clearSectorOnLose: true
 allowWaves: true
 prebuildBase: false
 mesh: [
-  //layer 1: oil
+  //placeholder
   {
     type: NoiseMesh
     planet: ashvini
@@ -40,6 +40,7 @@ mesh: [
     octaves: 1
   }
 ]
+//placeholder
 generator: {
   octaves: 3
   persistence: 0.52
