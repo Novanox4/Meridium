@@ -1,0 +1,22 @@
+//BIG TIME TEST
+radius: 4
+minZoom: 1
+drawOrbit: false
+clipSize: 8500
+accessible: false
+updateLighting: false
+bloom: true
+visible: true
+parent: singularity
+sectorSeed: 1
+alwaysUnlocked: true
+orbitRadius: 0
+orbitSpacing: 0
+mesh: [
+  {
+  type: NoiseMesh
+  color: e3feff80
+  radius: 5
+  persistence: 20
+  }
+]
