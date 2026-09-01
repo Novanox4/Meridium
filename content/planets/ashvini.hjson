@@ -30,6 +30,7 @@ prebuildBase: false
 defaultCore: core-shard
 parent: singularity
 tidalLock: true
+solarSystem: meridium
 mesh: [
   {
   type: NoiseMesh
