@@ -1,6 +1,5 @@
 localizedName: Singularity
-radius: 4
-camRadius: 5
+radius: 8
 drawOrbit: false
 clipSize: 10000
 accessible: true
@@ -15,12 +14,12 @@ mesh: [
   {
   type: SunMesh
   planet: singularity
-  divisions: 4
+  divisions: 7
   octaves: 4
   persistence: 0.5
   scl: 1.9
   pow: 1
-  colorScale: 1
+  colorScale: 1.5
   colors: [
     e3feff
     cbf1f5
