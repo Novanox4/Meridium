@@ -27,6 +27,7 @@ allowWaves: true
 prebuildBase: false
 defaultCore: core-shard
 parent: singularity
+solarSystem: meridium
 tidalLock: true
 mesh: [
   {
