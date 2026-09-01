@@ -13,7 +13,7 @@ mesh: [
   {
   type: SunMesh
   planet: singularity
-  divisions: 7
+  divisions: 5
   octaves: 4
   persistence: 0.5
   scl: 1.9
