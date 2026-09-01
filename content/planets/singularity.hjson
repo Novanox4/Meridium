@@ -6,7 +6,7 @@ maxZoom: 80
 accessible: true
 updateLighting: false
 orbitSpacing: 5
-orbitRadius: 40
+orbitRadius: 20
 bloom: true
 visible: true
 sectorSeed: 1
@@ -21,7 +21,7 @@ mesh: [
   persistence: 0.5
   scl: 1.9
   pow: 1
-  colorScale: 1.5
+  colorScale: 1.1
   colors: [
     e3feff
     cbf1f5
