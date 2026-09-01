@@ -8,6 +8,7 @@ updateLighting: false
 bloom: true
 visible: true
 parent: singularity
+solarSystem: singularity
 sectorSeed: 1
 alwaysUnlocked: true
 orbitRadius: 0
