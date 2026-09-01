@@ -23,6 +23,7 @@ mesh: [
   colorScale: 1.8
   colors: [
     ffc2f8
+    ffc2f8 //trol
     f1a2f2
     db86e3
     bc6acc
