@@ -16,7 +16,7 @@ orbitSpacing: 120
 mesh: [
   {
   type: NoiseMesh
-  color: e3feff
+  color: e3feffff
   radius: 8
   persistence: 1
   octaves: 1
