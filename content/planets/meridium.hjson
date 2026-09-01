@@ -27,8 +27,8 @@ mesh: [
     db86e3
     bc6acc
     9f55ad
-    924099
-    7e3085
+    "924099" //maybe it got mistook as a number?
+    "7e3085" //this one absolutely got mistook as a number
     671d6e
     4b0b57
     ]
