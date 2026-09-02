@@ -1,5 +1,0 @@
-type: OreBlock
-name: Crystalite Outcrop
-wallOre: true
-itemDrop: crystalite
-variants: 4
