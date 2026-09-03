@@ -1,3 +1,5 @@
 name: Assembly
 description: Basic technological material required for a majority of buildings. Can be refined from various sources.
 color: 9aa0a6
+cost: 1.5
+healthScaling: 1
