@@ -1,0 +1,23 @@
+type: CoreBlock
+name: Core: Journey
+description: "Heart of the base. [accent]Once destroyed, the sector is lost.[] Holds items for building"
+health: 1750
+itemCapacity: 1500
+landMusic: fortLand
+size: 2
+category: effect
+hasPower: true
+outputsPower: true
+unitType: alpha
+isFirstTier: true
+requirements: [
+  assembly/500
+]
+research: {
+  root: true
+  planet: ashvini
+  name: Meridium
+  requiresUnlock: false
+}
+alwaysUnlocked: true
+incinerateNonBuildable: true
