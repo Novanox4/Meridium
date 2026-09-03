@@ -5,8 +5,6 @@ health: 1750
 itemCapacity: 1500
 size: 2
 category: effect
-hasPower: true
-outputsPower: true
 unitType: alpha
 isFirstTier: true
 requirements: [
@@ -19,4 +17,3 @@ research: {
   requiresUnlock: false
 }
 alwaysUnlocked: true
-incinerateNonBuildable: true
