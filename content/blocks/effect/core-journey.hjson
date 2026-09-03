@@ -3,7 +3,6 @@ name: Core: Journey
 description: "Heart of the base. [accent]Once destroyed, the sector is lost.[] Holds items for building"
 health: 1750
 itemCapacity: 1500
-landMusic: fortLand
 size: 2
 category: effect
 hasPower: true
