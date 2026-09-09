@@ -1,0 +1,4 @@
+type: SteamVent
+variants: 2
+blendGroup: compacted-sand
+parent: compacted-sand
