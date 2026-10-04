@@ -1,0 +1,12 @@
+type: ParticleWeather
+region: "circle-shadow"
+particleRegion: "circle-shadow"
+color: d4a68c
+noiseColor: d4a68c
+force: 0.001
+yspeed: 2
+xspeed: -1
+minAlpha: 0.125
+maxAlpha: 0.6
+sizeMin: 60
+sizeMax: 140
