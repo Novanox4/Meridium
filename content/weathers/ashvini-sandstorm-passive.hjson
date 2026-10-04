@@ -6,7 +6,7 @@ noiseColor: d4a68c
 force: 0.001
 yspeed: 0.3
 xspeed: -0.1
-minAlpha: 0.1
-maxAlpha: 0.5
+minAlpha: 0.08
+maxAlpha: 0.3
 sizeMin: 50
 sizeMax: 125
