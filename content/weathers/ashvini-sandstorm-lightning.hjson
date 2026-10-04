@@ -6,8 +6,8 @@ noiseColor: d4a68c
 force: 0.001
 yspeed: 4
 xspeed: -2
-minAlpha: 0.125
-maxAlpha: 0.6
-sizeMin: 60
-sizeMax: 140
-density: 1400
+minAlpha: 0.1
+maxAlpha: 0.375
+sizeMin: 80
+sizeMax: 160
+density: 1900
