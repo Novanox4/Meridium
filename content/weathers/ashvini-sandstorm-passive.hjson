@@ -1,0 +1,7 @@
+type: ParticleWeather
+particleRegion: particle
+color: d4a68c
+noiseColor: d4a68c
+force: 0.001
+ySpeed: 1.5
+xSpeed: -0.8
