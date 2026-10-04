@@ -1,3 +1,4 @@
 type: Floor
 variants: 5
 name: Fragmented Fulgurite Floor (Hot)
+blendGroup: fulgurite-floor-fragmented
