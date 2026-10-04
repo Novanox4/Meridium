@@ -1,0 +1,5 @@
+type: SteamVent
+variants: 2
+blendGroup: fulgurite-floor-fragmented
+parent: fulgurite-floor-fragmented
+name: Fulgurite Pit
