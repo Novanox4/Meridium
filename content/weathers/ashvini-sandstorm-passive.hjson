@@ -4,8 +4,8 @@ particleRegion: "circle-shadow"
 color: d4a68c
 noiseColor: d4a68c
 force: 0.001
-ySpeed: 1.5
-xSpeed: -0.8
+yspeed: 0.3
+xspeed: -0.1
 minAlpha: 0.1
 maxAlpha: 0.5
 sizeMin: 50
