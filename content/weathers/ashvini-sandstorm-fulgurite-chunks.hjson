@@ -1,0 +1,10 @@
+type: ParticleWeather
+region: "circle-shadow"
+particleRegion: "circle-shadow"
+color: 36302e
+noiseColor: 36302e
+yspeed: 5
+xspeed: -2
+minAlpha: 0.8
+maxAlpha: 1
+density: 2500
