@@ -7,4 +7,4 @@ yspeed: 5
 xspeed: -2
 minAlpha: 0.8
 maxAlpha: 1
-density: 5000
+density: 50000
