@@ -58,11 +58,13 @@ weapons: [
           speed: 0
           collides: false
           damage: 0
+          lightning: 4
+          lightningColor:94e3f1
           hitEffect: {
             type: ParticleEffect
             particles: 1
             cone: 0
-            lifetime: 10
+            lifetime: 6
             colorFrom: ffffff
             colorTo: 94e3f1
             line: true
@@ -72,6 +74,7 @@ weapons: [
             strokeFrom: 3
             strokeTo: 0
             clip: 90
+            interp: pow4Out
           }
           despawnEffect: none
           fragAngle: 0
@@ -86,7 +89,7 @@ weapons: [
           fragBullet: {
             type: BulletType
             lifetime: 1
-            speed: 0
+            speed: 80
             collides: false
             damage: 0
             hitEffect: {
@@ -103,8 +106,10 @@ weapons: [
               strokeFrom: 3
               strokeTo: 0
               clip: 90
+              interp: pow4Out
             }
             despawnEffect: none
+            despawnHit: true
             fragAngle: 0
             fragBullets: 1
             fragLifeMax: 1
