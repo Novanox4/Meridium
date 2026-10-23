@@ -24,6 +24,7 @@ hidden: true
 playerControllable: false
 canDrown: false
 hitSize: 0
+<<<<<<< HEAD
 weapons: [
     {
         reload: 0
@@ -45,3 +46,5 @@ weapons: [
         }
     }
 ]
+=======
+>>>>>>> 4facc757a42508b82b27d6f20e1ced17886ac772
