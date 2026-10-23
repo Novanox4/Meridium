@@ -60,11 +60,14 @@ weapons: [
           damage: 0
           lightning: 4
           lightningColor:94e3f1
+          lightningLength: 5
+          lightningLengthRand: 4
+          lightningDamage: 10
           hitEffect: {
             type: ParticleEffect
             particles: 1
             cone: 0
-            lifetime: 6
+            lifetime: 14
             colorFrom: ffffff
             colorTo: 94e3f1
             line: true
@@ -96,7 +99,7 @@ weapons: [
               type: ParticleEffect
               particles: 1
               cone: 0
-              lifetime: 10
+              lifetime: 14
               colorFrom: ffffff
               colorTo: 94e3f1
               line: true
