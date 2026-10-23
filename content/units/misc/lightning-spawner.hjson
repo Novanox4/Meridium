@@ -33,6 +33,7 @@ weapons: [
       type: ExplosionBulletType
       shootEffect: none
       smokeEffect: none
+      despawnEffect: none
       hitEffect: [
         {
           type: WaveEffect
@@ -44,6 +45,20 @@ weapons: [
           interp: pow3Out
           lifetime: 45
         }
+        {
+          type: ParticleEffect
+          particles: 1
+          cone: 0
+          lifetime: 10
+          colorFrom: ffffff
+          colorTo: 94e3f1
+          line: true
+          length: 0
+          lenFrom: 60
+          lenTo: 60
+          strokeFrom: 4
+          strokeTo: 0
+        }
       ]
       splashDamage: 60
       splashDamagePierce: true
@@ -52,16 +67,10 @@ weapons: [
       spawnBullets: [
         {
           type: BulletType
-          lifetime: 0
-          instantDisappear: true
+          lifetime: 1
+          speed: 60
           collides: false
           damage: 0
-          lightning: 1
-          lightningLength: 80
-          lightningLengthRand: 20
-          lightningCone: 0
-          lightningColor: 94e3f1
-          lightningAngle: 90
         }
       ]
     }
