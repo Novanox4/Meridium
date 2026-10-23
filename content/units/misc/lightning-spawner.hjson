@@ -48,6 +48,21 @@ weapons: [
       splashDamage: 60
       splashDamagePierce: true
       splashDamageRadius: 40
+      showStats: false
+      spawnBullets: [
+        {
+          type: BulletType
+          lifetime: 0
+          instantDisappear: true
+          collides: false
+          damage: 0
+          lightning: 1
+          lightningLength: 20
+          lightningLengthRand: 0
+          lightningCone: 0
+          lightningColor: 94e3f1
+        }
+      ]
     }
   }
 ]
