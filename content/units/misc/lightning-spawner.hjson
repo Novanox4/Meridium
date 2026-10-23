@@ -25,23 +25,26 @@ playerControllable: false
 canDrown: false
 hitSize: 0
 weapons: [
-    {
-        reload: 0
-        shootSound: blockExplodeElectricBig
-        bullet: {
-            type: ExplosionBulletType
-            shootEffect: none
-            smokeEffect: none
-            hitEffect: [
-                {
-                    type: WaveEffect
-                    sizeTo: 40
-                }
-            ]
-            splashDamage: 60
-            splashDamagePierce: true
-            splashDamageRadius: 40
-            
+  {
+    reload: 0
+    shootSound: blockExplodeElectricBig
+    bullet: {
+      type: ExplosionBulletType
+      shootEffect: none
+      smokeEffect: none
+      hitEffect: [
+        {
+          type: WaveEffect
+          sizeTo: 40
+          colorFrom: ffffff
+          colorTo: 94e3f1
+          strokeFrom: 6
+          strokeTo: 0
         }
+      ]
+      splashDamage: 60
+      splashDamagePierce: true
+      splashDamageRadius: 40
     }
+  }
 ]
