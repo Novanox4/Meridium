@@ -41,6 +41,8 @@ weapons: [
           colorTo: 94e3f1
           strokeFrom: 6
           strokeTo: 0
+          interp: pow3Out
+          lifetime: 45
         }
       ]
       splashDamage: 60
