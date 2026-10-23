@@ -61,6 +61,7 @@ weapons: [
           lightningLengthRand: 0
           lightningCone: 0
           lightningColor: 94e3f1
+          lightningAngle: -90
         }
       ]
     }
