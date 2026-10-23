@@ -58,6 +58,7 @@ weapons: [
           lenTo: 60
           strokeFrom: 4
           strokeTo: 0
+          clip: 90
         }
       ]
       splashDamage: 60
