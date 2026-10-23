@@ -28,6 +28,7 @@ weapons: [
   {
     reload: 0
     shootSound: blockExplodeElectricBig
+    alwaysShooting: true
     bullet: {
       type: ExplosionBulletType
       shootEffect: none
