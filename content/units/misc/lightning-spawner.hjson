@@ -57,11 +57,11 @@ weapons: [
           collides: false
           damage: 0
           lightning: 1
-          lightningLength: 20
-          lightningLengthRand: 0
+          lightningLength: 80
+          lightningLengthRand: 20
           lightningCone: 0
           lightningColor: 94e3f1
-          lightningAngle: -90
+          lightningAngle: 90
         }
       ]
     }
